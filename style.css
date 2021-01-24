@@ -1,0 +1,11 @@
+* {
+	background-color: deepskyblue;
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 2rem;
+}
+
+img {
+	border: solid 4px coral;
+	border-radius: 20px;
+}
